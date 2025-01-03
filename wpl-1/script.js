@@ -1,0 +1,1 @@
+alert("Welcome to the 1st lab of WPL");
