@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+table{
+    border: 2px solid black;
+}
+img {
+    height: 300px;
+    width: 600px;
+    /* border: 2px solid black; */
+
+}
+.title{
+    display:flex;
+    justify-content: center;
+}
+/* tr{
+    display: flex;
+    justify-content: space-around;
+    
+    /* border : 1px solid black; */
+
+ 
+/* td{
+    border-right: 2px solid black;
+} */
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.text{
+    border:2px solid black;
+    height: 300px;
+    width: 600px;
+}
+#text1{
+    margin-right:5px
+}
