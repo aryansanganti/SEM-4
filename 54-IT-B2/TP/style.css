@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+
+}
+form{
+    height:80vh;
+    width:65vh;
+}
